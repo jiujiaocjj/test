@@ -1,5 +1,5 @@
-此代码主要针对基本的UE、SO模型以及带约束的UE模型进行求解
-所采用的基本算法为Frank-Wolfe算法
+==此代码主要针对基本的UE、SO模型以及带约束的UE模型进行求解 
+\<br> 所采用的基本算法为Frank-Wolfe算法
 主要用到的python库为scipy，sympy和math
 
 frank-wolfe算法主要是通过将带线性约束的非线性问题转化为带线性约束的线性问题，再进行求解。
